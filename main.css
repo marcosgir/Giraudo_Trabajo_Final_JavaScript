@@ -1,0 +1,23 @@
+.header
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.colorVerde
+{
+    color: greenyellow;
+}
+
+.colorRojo
+{
+    color: red;
+}
+
+.flex
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}

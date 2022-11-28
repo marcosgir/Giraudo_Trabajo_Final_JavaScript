@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./main.css">
+    <title>Entregable_03</title>
+</head>
+
+<body style = "background-color: black">
+
+    <header>
+
+        <div class="header">
+            <img src="./Imagenes/Logo.jpg">
+            <h2 id="pagName">Tu calculadora</h2>
+            <input type="text" id="usuario" placeholder="Nombre de Usuario">
+            <input type="text" id="contraseña" placeholder="Contraseña">
+            <button id="ingresar">Ingresar</button>
+            <p class="colorVerde" id="log"></p>
+            <button id="salir">Salir</button>
+        </div>
+
+    </header>
+    
+    <section>
+
+        <h2 class="colorRojo">CALCULADORA LEY DE OHM</h2>
+        <h2 class="colorRojo">¿Qué desea Calcular?</h2>
+
+        <div class="flex">
+            <button id="res">Resistencia</button>
+
+            <button id="corr">Corriente</button>
+
+            <button id="volt">Voltaje</button>
+        </div>
+
+        <br>
+
+        <div>
+        <input id="corriente" placeholder="Corriente (A)" type="number">
+        <div>
+
+        <br>
+
+        <div>
+        <input id="voltaje" placeholder="Voltaje (V)" type="number">
+        <div>
+
+        <br>
+
+        <div>
+            <input id="resistencia" placeholder="Resistencia (OHM)" type="number">
+        <div>
+
+        <br>
+
+        <div>
+            <button id="calcular">CALCULAR</button>
+        </div>
+
+    </section>
+
+    <script src="app.js"></script>
+</body>
+</html>
