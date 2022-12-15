@@ -1,0 +1,26 @@
+[
+    {
+        "Nombre": "Cobre",
+        "Resistividad": "4.5 OHM.m",
+        "Densidad": "8.96 g/ml",
+        "Simbolo": "Cu"
+    },
+    {
+        "Nombre": "Aluminio",
+        "Resistividad": "8.7 OHM.m",
+        "Densidad": "2.7 g/ml",
+        "Simbolo": "Al"
+    },
+    {
+        "Nombre": "Hierro",
+        "Resistividad": "3.2 OHM.m",
+        "Densidad": "7.4 g/ml",
+        "Simbolo": "Fe"
+    },
+    {
+        "Nombre": "Oro",
+        "Resistividad": "10.8 OHM.m",
+        "Densidad": "19,3 g/ml",
+        "Simbolo": "Au"
+    }
+]

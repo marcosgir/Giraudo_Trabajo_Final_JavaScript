@@ -15,6 +15,20 @@
     color: red;
 }
 
+.colorBlanco
+{
+    color: white;
+}
+
+.colorAmarillo
+{
+    color: yellow;
+}
+
+.colorAzul
+{
+    color: blue;
+}
 .flex
 {
     display: flex;
